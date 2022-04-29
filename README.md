@@ -1,5 +1,5 @@
 # RoadFighter x86
-A replica of the classic arcade Road Fighter game developed by KONAMI for NES, made in x86 Assmebly Language.
+An x86, Assembly Language replica of the classic arcade Road Fighter game developed by KONAMI for NES. Made for Intel 8088 processor.
 
 ## START SCREEN
 ![](images/main.png)
