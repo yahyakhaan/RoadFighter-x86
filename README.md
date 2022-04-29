@@ -1,2 +1,20 @@
 # RoadFighter x86
 A replica of the classic arcade Road Fighter game developed by KONAMI for NES, made in x86 Assmebly Language.
+
+## START SCREEN
+![](images/main.png)
+
+## INSTRUCTIONS
+![](images/instructions.png)
+
+## GAMEPLAY
+![](images/scoring.gif)
+
+## OBSTACLES (-5 score)
+![](images/obstacle.gif)
+
+## VICTORY
+![](images/victory.gif)
+
+## GAME OVER
+![](images/gameover.gif)
