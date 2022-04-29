@@ -20,4 +20,4 @@ An x86, Assembly Language replica of the classic arcade Road Fighter game develo
 ![](images/gameover.gif)
 
 # CONTRIBUTOR
-@zaigham-kashif
+[ZAIGHAM KASHIF](https://github.com/zaigham-kashif)
